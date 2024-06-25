@@ -1,2 +1,4 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+
+Мое резюме доступно по [этой ссылке](https://vadimsea.github.io/rsschool-cv/cv).
+
